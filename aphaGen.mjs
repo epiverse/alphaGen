@@ -1,0 +1,1 @@
+console.log(`loaded ES6 module\n${Date()}`)
