@@ -1,0 +1,1 @@
+console.log(`alphaGen loaded\n${Date()}`)
